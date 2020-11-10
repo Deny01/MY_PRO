@@ -71,4 +71,5 @@ namespace HappyYF.YuanXin.WorkSet
             this.supplier_financial_code.Text = SQLDatabase.nowUserName();
         }
     }
+    /////////////// aaaaaaaaaaaaa
 }
