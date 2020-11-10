@@ -35,6 +35,7 @@ namespace HappyYF.YuanXin.WorkSet
                 MessageBox.Show("数字格式错误，请重新输入");
                 this.invoice_money.Focus();
                 return;
+                ////////////// aaaaaaa
             }
             if (string.IsNullOrEmpty(dateTimePicker1.Text))
             {
