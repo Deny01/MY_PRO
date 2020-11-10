@@ -70,6 +70,7 @@ namespace HappyYF.YuanXin.WorkSet
         private void LY_add_Prepayment_NP_Load(object sender, EventArgs e)
         {
             this.supplier_financial_code.Text = SQLDatabase.nowUserName();
+            //test git xxxxxxxxx
         }
     }
     /////////////// aaaaaaaaaaaaa
